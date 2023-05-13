@@ -12,5 +12,5 @@ PHP ,Composer ,MySQL
 5. run migrations
 6. serve the application
 
-#Usage
+# Usage
  http://localhost:8000 vist url and log in to the system or user can register to the system and use the application
