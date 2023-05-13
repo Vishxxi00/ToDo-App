@@ -2,7 +2,7 @@
 A simple todo application build with using laravel bootstrap and mySql. 
 
 # Requirements
-PHP ,Composer ,MySQL 
+PHP ,Composer ,MySQL ,Bootstrap
 
 # Installation
 1. Clone the repository to your local machine.
